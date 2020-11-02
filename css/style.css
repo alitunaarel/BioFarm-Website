@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
 
 :root{
-    --primary-color: #047aed;
+    --primary-color: #88b04b ;/*#047aed*/
 }
 
 
@@ -122,4 +122,16 @@ img{
     padding-top: 100px;
 }
 
+.stats-heading{
+    max-width: 500px;
+    margin:auto;
+}
 
+.stats .grid h3{
+    font-size: 35px;  
+}
+
+.stats .grid p{
+    font-size:20px;
+    font-weight: bold;
+}
